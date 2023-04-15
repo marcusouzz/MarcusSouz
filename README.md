@@ -1,6 +1,6 @@
 <h2>Sobre mim</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="300" align="right" />
+<img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="210" align="right" />
 <p align="left">
 Olá, sou <strong>Marcus Vinícius</strong>, Estudante de Análise e Desenvolvimento de Sistemas em busca de minha primeira oportunidade de emprego na área de tecnologia
 </p>
