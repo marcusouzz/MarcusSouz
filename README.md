@@ -2,7 +2,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="300" align="right" />
 <p align="left">
-Olá, sou <strong>Marcus Vinícius</strong>, Sou um estudante de Análise e Desenvolvimento de Sistemas em busca de minha primeira oportunidade de emprego na área de tecnologia
+Olá, sou <strong>Marcus Vinícius</strong>, Estudante de Análise e Desenvolvimento de Sistemas em busca de minha primeira oportunidade de emprego na área de tecnologia
 </p>
 <br>
 
@@ -18,14 +18,11 @@ Olá, sou <strong>Marcus Vinícius</strong>, Sou um estudante de Análise e Dese
     <img src="https://img.shields.io/badge/-Site Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=vinimvrs.github.io/portifolio/"/>
   </a>
  </div>
- 
- 
-
 
 
 <div align="left">  
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinimvrs&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Marcus Vinícius github stats" /> 
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimvrs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinimvrs&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=00FFFF&bg_color=0d1117" alt="Marcus Vinícius github stats" /> 
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimvrs&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
 <ul>
