@@ -9,13 +9,13 @@ Olá, sou <strong>Marcus Vinícius</strong>, Estudante de Análise e Desenvolvim
 
 <div>
  <a href="https://www.instagram.com/vinimvrs/" target="blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/im.lucasalves/"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/vinimvrs/"/>
   </a>
  <a href="https://www.linkedin.com/in/vinimvrs/" target="blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/luccasalves/"/>
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/vinimvrs/"/>
   </a>
- <a href="https://vinimvrs.github.io/portifolio/" target="blank" alt="página Pessoal">
-    <img src="https://img.shields.io/badge/-Site Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=https://vinimvrs.github.io/portifolio/"/>
+ <a href="https://vinimvrs.github.io/portifolio/" target="blank" alt="Página Pessoal">
+    <img src="https://img.shields.io/badge/-Página Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=https://vinimvrs.github.io/portifolio/"/>
   </a>
  </div>
 
