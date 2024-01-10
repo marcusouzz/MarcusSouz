@@ -11,7 +11,7 @@ Olá, sou <strong>Marcus Vinícius</strong>, Estudante de Análise e Desenvolvim
  <a href="https://www.linkedin.com/in/vinimvrs/" target="blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/vinimvrs/"/>
   </a>
- <a href="https://MarcusSouz.github.io/portifolio/" target="blank" alt="Página Pessoal">
+ <a href="https://marcussouz.github.io/pagina_pessoal/" target="blank" alt="Página Pessoal">
     <img src="https://img.shields.io/badge/-Página Pessoal-00FFFF?style=for-the-badge&logo=&logoColor=00FFFF&link=https://MarcusSouz.github.io/portifolio/"/>
   </a>
  </div>
